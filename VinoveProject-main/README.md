@@ -98,7 +98,7 @@
 <h1> Important Instructions To Run </h1>
 
 ```
-Step 1- git clone https://github.com/Vivek833855/-Vivek833855-Python-based-Desktop-Agent-Application-Group-17--/tree/main/VinoveProject-Group%20-17/VinoveProject-main
+Step 1- git clone https://github.com/Vivek833855/Python-based-Desktop-Agent-Application-Group-17/tree/main/VinoveProject-main
 
 step 2 ->For Frontend
 
